@@ -1,0 +1,21 @@
+{
+  "billing_document_cancellations": 80,
+  "billing_document_headers": 163,
+  "billing_document_items": 245,
+  "business_partner_addresses": 8,
+  "business_partners": 8,
+  "customer_company_assignments": 8,
+  "customer_sales_area_assignments": 28,
+  "journal_entry_items_accounts_receivable": 123,
+  "outbound_delivery_headers": 86,
+  "outbound_delivery_items": 137,
+  "payments_accounts_receivable": 120,
+  "plants": 44,
+  "product_descriptions": 69,
+  "product_plants": 3036,
+  "product_storage_locations": 16723,
+  "products": 69,
+  "sales_order_headers": 100,
+  "sales_order_items": 167,
+  "sales_order_schedule_lines": 179
+}
